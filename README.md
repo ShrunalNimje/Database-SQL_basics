@@ -17,6 +17,10 @@
 <br> 12 - Joins in SQL
 <br> 13 - Union in SQL
 <br> 14 - SQL sub queries
-<br> 15 - Views in SQL
-<br> In Practice question set 1 of Database SQl, I solved 6 question on the basics of SQL concepts 
+<br> 15 - Views in SQL**
+
+<br> **In Practice question set 1 of Database SQl, I solved 6 question on the basics of SQL concepts 
 <br> which include following queries : Where clauses using operators, Having clause & Inner joins**
+
+<br> **In Practice question set 2 of Database SQl, I solved 3 question on the basics of SQL concepts 
+<br> which include following queries : Where clauses using operators & order by clause**
