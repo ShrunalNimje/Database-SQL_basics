@@ -69,7 +69,7 @@ select product_name, price
 from company
 where price = (select min(price) from company);
 
--- Question 4 --
+-- Question 5 --
 /*
 Write a SQL query to find the data of employee whose last name is 'Snares'
 */
@@ -97,7 +97,7 @@ where name = "pee Cott";
 select * from employee_data
 where name = 'Snares';
 
--- Question 4 --
+-- Question 6 --
 /*
 Write a SQL query to find the last name of employee, without duplicates
 */
